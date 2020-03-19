@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243567923106",
+    "firebase_url": "https://katawutfinal.firebaseio.com",
+    "project_id": "katawutfinal",
+    "storage_bucket": "katawutfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243567923106:android:c5a5f56c6ed18af01a2cfb",
+        "android_client_info": {
+          "package_name": "com.got.katawut_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243567923106-97p4jrsnvm0itlma4csni7v0m40vk9jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.got.katawut_final",
+            "certificate_hash": "92ca1d7b62297a20faa4db178579abaec6b8cc94"
+          }
+        },
+        {
+          "client_id": "243567923106-ntdkfele6n1p7m7lu4c4e690d73bcs42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Vo4dptRjYfLJsT_ndttIS-BqGMCgQ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243567923106-ntdkfele6n1p7m7lu4c4e690d73bcs42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
